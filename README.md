@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Shale Ahammed Taspy
+### Hi there! 👋 I'm Shale Ahammed Taspy
 
 Welcome to my GitHub! I'm an aspiring **Web Developer** passionate about creating functional and engaging digital experiences. Currently, I'm learning **JavaScript**, exploring **APIs**, and preparing to dive deeper into **React**.
 
