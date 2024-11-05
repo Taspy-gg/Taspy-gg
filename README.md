@@ -34,4 +34,4 @@ Welcome to my GitHub! I'm an aspiring **Web Developer** passionate about creatin
 
 Feel free to explore my repositories, and let’s connect if you’d like to collaborate on exciting projects!
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
+
