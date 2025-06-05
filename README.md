@@ -23,10 +23,15 @@ Welcome to my GitHub! I’m a full-stack web developer passionate about building
 🧠 Tech Stack
 
 ⚛️ Frontend: HTML5, CSS3, JS (ES6+), React, Next.js, Tailwind
+
 🧠 Backend: Node.js, Express, MongoDB, REST APIs, JWT
+
 🛠️ Tooling: Git, GitHub, VS Code, Postman, npm, Vite
+
 🚀 Deployment: Vercel, Netlify, GitHub Pages, Render
+
 🎯 Extras: Three.js, Zustand, Prisma, WebSockets (ongoing)
+
 ---
 
 🚀 Highlights
