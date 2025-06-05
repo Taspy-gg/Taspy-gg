@@ -56,9 +56,13 @@ To build innovative, accessible, and high-performance web applications that user
 ### 🤝 Contact Me
 
 📫 shaleahamedtaspi@gmail.com
+
 📸 Instagram: @blazmor_suiii
+
 𝕏 Twitter: @Taspy_Suiii
+
 💼 LinkedIn: linkedin.com/in/staspy
+
 ---
 
 Feel free to explore my repositories, and let’s connect if you’d like to collaborate on exciting projects!
