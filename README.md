@@ -49,7 +49,9 @@ Welcome to my GitHub! I’m a full-stack web developer passionate about building
 ---
 
 💼 Current Mission
+
 To build innovative, accessible, and high-performance web applications that users love and teams are proud of. I aim to continuously improve as a developer, collaborate with creative minds, and bring meaningful products to life.
+
 
 ---
 
